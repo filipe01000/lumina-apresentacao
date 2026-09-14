@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /favoritos
+Disallow: /api/
+
+Host: https://luminapratas.com.br
+Sitemap: https://luminapratas.com.br/sitemap.xml
